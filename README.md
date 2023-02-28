@@ -1,5 +1,5 @@
 # DMW-Assignment
-<h4>This is the Apriori Algorithm which is implemented in python on google collab.It takes in the csv file with the list of transactions and results out the association rule.The value of the minimum support needs to be specified by the user.</h4>
+<h4>This is the Apriori Algorithm which is implemented in python on google collab.It takes in the csv file with the list of transactions and results out the frequent sets.The value of the minimum support needs to be specified by the user.</h4>
 <br>
 The expected input file should be in the following format:
 
